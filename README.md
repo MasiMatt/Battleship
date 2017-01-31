@@ -1,2 +1,2 @@
 # Battleship
-# The classic board game implemented in c language.
+The classic board game implemented in c language.
